@@ -1,0 +1,1137 @@
+1500	Halle	False		Vlaams-Brabant	
+1501	Buizingen	True	1500	Vlaams-Brabant	
+1502	Lembeek	True	1500	Vlaams-Brabant	
+1540	Herfelingen	True	1540	Vlaams-Brabant	
+1540	Herne	False		Vlaams-Brabant	
+1541	Sint-Pieters-Kapelle	True	1540	Vlaams-Brabant	
+1547	Bever	False		Vlaams-Brabant	
+1560	Hoeilaart	False		Vlaams-Brabant	
+1570	Galmaarden	False		Vlaams-Brabant	
+1570	Tollembeek	True	1570	Vlaams-Brabant	
+1570	Vollezele	True	1570	Vlaams-Brabant	
+1600	Oudenaken	True	1600	Vlaams-Brabant	
+1600	Sint-Laureins-Berchem	True	1600	Vlaams-Brabant	
+1600	Sint-Pieters-Leeuw	False		Vlaams-Brabant	
+1601	Ruisbroek	True	1600	Vlaams-Brabant	
+1602	Vlezenbeek	True	1600	Vlaams-Brabant	
+1620	Drogenbos	False		Vlaams-Brabant	
+1630	Linkebeek	False		Vlaams-Brabant	
+1640	Sint-Genesius-Rode	False		Vlaams-Brabant	
+1650	Beersel	False		Vlaams-Brabant	
+1651	Lot	True	1650	Vlaams-Brabant	
+1652	Alsemberg	True	1650	Vlaams-Brabant	
+1653	Dworp	True	1650	Vlaams-Brabant	
+1654	Huizingen	True	1650	Vlaams-Brabant	
+1670	Bogaarden	True	1670	Vlaams-Brabant	
+1670	Heikruis	True	1670	Vlaams-Brabant	
+1670	Pepingen	False		Vlaams-Brabant	
+1671	Elingen	True	1670	Vlaams-Brabant	
+1673	Beert	True	1670	Vlaams-Brabant	
+1674	Bellingen	True	1670	Vlaams-Brabant	
+1700	Dilbeek	False		Vlaams-Brabant	
+1700	Sint-Martens-Bodegem	True	1700	Vlaams-Brabant	
+1700	Sint-Ulriks-Kapelle	True	1700	Vlaams-Brabant	
+1701	Itterbeek	True	1700	Vlaams-Brabant	
+1702	Groot-Bijgaarden	True	1700	Vlaams-Brabant	
+1703	Schepdaal	True	1700	Vlaams-Brabant	
+1730	Asse	False		Vlaams-Brabant	
+1730	Bekkerzeel	True	1730	Vlaams-Brabant	
+1730	Kobbegem	True	1730	Vlaams-Brabant	
+1730	Mollem	True	1730	Vlaams-Brabant	
+1731	Relegem	True	1730	Vlaams-Brabant	
+1731	Zellik	True	1730	Vlaams-Brabant	
+1740	Ternat	False		Vlaams-Brabant	
+1741	Wambeek	True	1740	Vlaams-Brabant	
+1742	Sint-Katherina-Lombeek	True	1740	Vlaams-Brabant	
+1745	Mazenzele	True	1745	Vlaams-Brabant	
+1745	Opwijk	False		Vlaams-Brabant	
+1750	Gaasbeek	True		Vlaams-Brabant	
+1750	Sint-Kwintens-Lennik	True		Vlaams-Brabant	
+1750	Sint-Martens-Lennik	True		Vlaams-Brabant	
+1755	Gooik	False		Vlaams-Brabant	
+1755	Kester	True	1755	Vlaams-Brabant	
+1755	Leerbeek	True	1755	Vlaams-Brabant	
+1755	Oetingen	True	1755	Vlaams-Brabant	
+1760	Onze-Lieve-Vrouw-Lombeek	True	1760	Vlaams-Brabant	
+1760	Pamel	True	1760	Vlaams-Brabant	
+1760	Roosdaal	False		Vlaams-Brabant	
+1760	Strijtem	True	1760	Vlaams-Brabant	
+1761	Borchtlombeek	True	1760	Vlaams-Brabant	
+1770	Liedekerke	False		Vlaams-Brabant	
+1780	Wemmel	False		Vlaams-Brabant	
+1785	Brussegem	True	1785	Vlaams-Brabant	
+1785	Hamme	True	1785	Vlaams-Brabant	
+1785	Merchtem	False		Vlaams-Brabant	
+1790	Affligem	False		Vlaams-Brabant	
+1790	Essene	True	1790	Vlaams-Brabant	
+1790	Hekelgem	True	1790	Vlaams-Brabant	
+1790	Teralfene	True	1790	Vlaams-Brabant	
+1800	Peutie	True	1800	Vlaams-Brabant	
+1800	Vilvoorde	False		Vlaams-Brabant	
+1820	Melsbroek	True	1820	Vlaams-Brabant	
+1820	Perk	True	1820	Vlaams-Brabant	
+1820	Steenokkerzeel	False		Vlaams-Brabant	
+1830	Machelen	False		Vlaams-Brabant	
+1831	Diegem	True	1830	Vlaams-Brabant	
+1840	Londerzeel	False		Vlaams-Brabant	
+1840	Malderen	True	1840	Vlaams-Brabant	
+1840	Steenhuffel	True	1840	Vlaams-Brabant	
+1850	Grimbergen	False		Vlaams-Brabant	
+1851	Humbeek	True	1850	Vlaams-Brabant	
+1852	Beigem	True	1850	Vlaams-Brabant	
+1853	Strombeek-Bever	True	1850	Vlaams-Brabant	
+1860	Meise	False		Vlaams-Brabant	
+1861	Wolvertem	True	1860	Vlaams-Brabant	
+1880	Kapelle-Op-Den-Bos	False		Vlaams-Brabant	
+1880	Nieuwenrode	True	1880	Vlaams-Brabant	
+1880	Ramsdonk	True	1880	Vlaams-Brabant	
+1910	Berg	True	1910	Vlaams-Brabant	
+1910	Buken	True	1910	Vlaams-Brabant	
+1910	Kampenhout	False		Vlaams-Brabant	
+1910	Nederokkerzeel	True	1910	Vlaams-Brabant	
+1930	Nossegem	True	1930	Vlaams-Brabant	
+1930	Zaventem	False		Vlaams-Brabant	
+1932	Sint-Stevens-Woluwe	True	1930	Vlaams-Brabant	
+1933	Sterrebeek	True	1930	Vlaams-Brabant	
+1950	Kraainem	False		Vlaams-Brabant	
+1970	Wezembeek-Oppem	False		Vlaams-Brabant	
+1980	Eppegem	True	1980	Vlaams-Brabant	
+1980	Zemst	False		Vlaams-Brabant	
+1981	Hofstade	True	1980	Vlaams-Brabant	
+1982	Elewijt	True	1980	Vlaams-Brabant	
+1982	Weerde	True	1980	Vlaams-Brabant	
+2040	Berendrecht	True	2060	Antwerpen	
+2040	Lillo	True	2060	Antwerpen	
+2040	Zandvliet	True	2060	Antwerpen	
+2060	Antwerpen	False		Antwerpen	
+2070	Burcht	True	2070	Antwerpen	
+2070	Zwijndrecht	False		Antwerpen	
+2100	Deurne	True	2060	Antwerpen	
+2110	Wijnegem	False		Antwerpen	
+2140	Borgerhout	True	2060	Antwerpen	
+2150	Borsbeek	False		Antwerpen	
+2160	Wommelgem	False		Antwerpen	
+2170	Merksem	True	2060	Antwerpen	
+2180	Ekeren	True	2060	Antwerpen	
+2200	Herentals	False		Antwerpen	
+2200	Morkhoven	True	2200	Antwerpen	
+2200	Noorderwijk	True	2200	Antwerpen	
+2220	Hallaar	True	2220	Antwerpen	
+2220	Heist-Op-Den-Berg	False		Antwerpen	
+2221	Booischot	True	2220	Antwerpen	
+2222	Itegem	True	2220	Antwerpen	
+2222	Wiekevorst	True	2220	Antwerpen	
+2223	Schriek	True	2220	Antwerpen	
+2230	Herselt	False		Antwerpen	
+2230	Ramsel	True	2230	Antwerpen	
+2235	Houtvenne	True	2235	Antwerpen	
+2235	Hulshout	False		Antwerpen	
+2235	Westmeerbeek	True	2235	Antwerpen	
+2240	Massenhoven	True	2240	Antwerpen	
+2240	Viersel	True	2240	Antwerpen	
+2240	Zandhoven	False		Antwerpen	
+2242	Pulderbos	True	2240	Antwerpen	
+2243	Pulle	True	2240	Antwerpen	
+2250	Olen	False		Antwerpen	
+2260	Oevel	True	2260	Antwerpen	
+2260	Tongerlo	True	2260	Antwerpen	
+2260	Westerlo	False		Antwerpen	
+2260	Zoerle-Parwijs	True	2260	Antwerpen	
+2270	Herenthout	False		Antwerpen	
+2275	Gierle	True	2275	Antwerpen	
+2275	Lille	False		Antwerpen	
+2275	Poederlee	True	2275	Antwerpen	
+2275	Wechelderzande	True	2275	Antwerpen	
+2280	Grobbendonk	False		Antwerpen	
+2288	Bouwel	True	2280	Antwerpen	
+2290	Vorselaar	False		Antwerpen	
+2300	Turnhout	False		Antwerpen	
+2310	Rijkevorsel	False		Antwerpen	
+2320	Hoogstraten	False		Antwerpen	
+2321	Meer	True	2320	Antwerpen	
+2322	Minderhout	True	2320	Antwerpen	
+2323	Wortel	True	2320	Antwerpen	
+2328	Meerle	True	2320	Antwerpen	
+2330	Merksplas	False		Antwerpen	
+2340	Beerse	False		Antwerpen	
+2340	Vlimmeren	True	2340	Antwerpen	
+2350	Vosselaar	False		Antwerpen	
+2360	Oud-Turnhout	False		Antwerpen	
+2370	Arendonk	False		Antwerpen	
+2380	Ravels	False		Antwerpen	
+2381	Weelde	True	2380	Antwerpen	
+2382	Poppel	True	2380	Antwerpen	
+2387	Baarle-Hertog	False		Antwerpen	
+2390	Malle	False		Antwerpen	
+2390	Oostmalle	True	2390	Antwerpen	
+2390	Westmalle	True	2390	Antwerpen	
+2400	Mol	False		Antwerpen	
+2430	Eindhout	True		Antwerpen	
+2430	Vorst	True		Antwerpen	
+2431	Varendonk	True		Antwerpen	
+2431	Veerle	True		Antwerpen	
+2440	Geel	False		Antwerpen	
+2450	Meerhout	False		Antwerpen	
+2460	Kasterlee	False		Antwerpen	
+2460	Lichtaart	True	2460	Antwerpen	
+2460	Tielen	True	2460	Antwerpen	
+2470	Retie	False		Antwerpen	
+2480	Dessel	False		Antwerpen	
+2490	Balen	False		Antwerpen	
+2491	Olmen	True	2490	Antwerpen	
+2500	Koningshooikt	True	2500	Antwerpen	
+2500	Lier	False		Antwerpen	
+2520	Broechem	True	2520	Antwerpen	
+2520	Emblem	True	2520	Antwerpen	
+2520	Oelegem	True	2520	Antwerpen	
+2520	Ranst	False		Antwerpen	
+2530	Boechout	False		Antwerpen	
+2531	Vremde	True	2530	Antwerpen	
+2540	Hove	False		Antwerpen	
+2547	Lint	False		Antwerpen	
+2550	Kontich	False		Antwerpen	
+2550	Waarloos	True	2550	Antwerpen	
+2560	Bevel	True	2560	Antwerpen	
+2560	Kessel	True	2560	Antwerpen	
+2560	Nijlen	False		Antwerpen	
+2570	Duffel	False		Antwerpen	
+2580	Beerzel	True	2580	Antwerpen	
+2580	Putte	False		Antwerpen	
+2590	Berlaar	False		Antwerpen	
+2590	Gestel	True	2590	Antwerpen	
+2600	Berchem	True	2060	Antwerpen	
+2610	Wilrijk	True	2060	Antwerpen	
+2620	Hemiksem	False		Antwerpen	
+2627	Schelle	False		Antwerpen	
+2630	Aartselaar	False		Antwerpen	
+2640	Mortsel	False		Antwerpen	
+2650	Edegem	False		Antwerpen	
+2660	Hoboken	True	2060	Antwerpen	
+2800	Mechelen	False		Antwerpen	
+2800	Walem	True	2800	Antwerpen	
+2801	Heffen	True	2800	Antwerpen	
+2811	Hombeek	True	2800	Antwerpen	
+2811	Leest	True	2800	Antwerpen	
+2812	Muizen	True	2800	Antwerpen	
+2820	Bonheiden	False		Antwerpen	
+2820	Rijmenam	True	2820	Antwerpen	
+2830	Blaasveld	True	2830	Antwerpen	
+2830	Heindonk	True	2830	Antwerpen	
+2830	Tisselt	True	2830	Antwerpen	
+2830	Willebroek	False		Antwerpen	
+2840	Reet	True	2840	Antwerpen	
+2840	Rumst	False		Antwerpen	
+2840	Terhagen	True	2840	Antwerpen	
+2845	Niel	False		Antwerpen	
+2850	Boom	False		Antwerpen	
+2860	Sint-Katelijne-Waver	False		Antwerpen	
+2861	Onze-Lieve-Vrouw-Waver	True	2860	Antwerpen	
+2870	Breendonk	True		Antwerpen	
+2870	Liezele	True		Antwerpen	
+2870	Puurs	True		Antwerpen	
+2870	Ruisbroek	True		Antwerpen	
+2880	Bornem	False		Antwerpen	
+2880	Hingene	True	2880	Antwerpen	
+2880	Mariekerke	True	2880	Antwerpen	
+2880	Weert	True	2880	Antwerpen	
+2890	Lippelo	True		Antwerpen	
+2890	Oppuurs	True		Antwerpen	
+2890	Sint-Amands	True		Antwerpen	
+2900	Schoten	False		Antwerpen	
+2910	Essen	False		Antwerpen	
+2920	Kalmthout	False		Antwerpen	
+2930	Brasschaat	False		Antwerpen	
+2940	Hoevenen	True	2940	Antwerpen	
+2940	Stabroek	False		Antwerpen	
+2950	Kapellen	False		Antwerpen	
+2960	Brecht	False		Antwerpen	
+2960	Sint-Job-In-'t-Goor	True	2960	Antwerpen	
+2960	Sint-Lenaarts	True	2960	Antwerpen	
+2970	'S Gravenwezel	True	2970	Antwerpen	
+2970	Schilde	False		Antwerpen	
+2980	Halle	True	2980	Antwerpen	
+2980	Zoersel	False		Antwerpen	
+2990	Loenhout	True	2990	Antwerpen	
+2990	Wuustwezel	False		Antwerpen	
+3000	Leuven	False		Vlaams-Brabant	
+3001	Heverlee	True	3000	Vlaams-Brabant	
+3010	Kessel Lo	True	3000	Vlaams-Brabant	
+3012	Wilsele	True	3000	Vlaams-Brabant	
+3018	Wijgmaal	True	3000	Vlaams-Brabant	
+3020	Herent	False		Vlaams-Brabant	
+3020	Veltem-Beisem	True	3020	Vlaams-Brabant	
+3020	Winksele	True	3020	Vlaams-Brabant	
+3040	Huldenberg	False		Vlaams-Brabant	
+3040	Loonbeek	True	3040	Vlaams-Brabant	
+3040	Neerijse	True	3040	Vlaams-Brabant	
+3040	Ottenburg	True	3040	Vlaams-Brabant	
+3040	Sint-Agatha-Rode	True	3040	Vlaams-Brabant	
+3050	Oud-Heverlee	False		Vlaams-Brabant	
+3051	Sint-Joris-Weert	True	3050	Vlaams-Brabant	
+3052	Blanden	True	3050	Vlaams-Brabant	
+3053	Haasrode	True	3050	Vlaams-Brabant	
+3054	Vaalbeek	True	3050	Vlaams-Brabant	
+3060	Bertem	False		Vlaams-Brabant	
+3060	Korbeek-Dijle	True	3060	Vlaams-Brabant	
+3061	Leefdaal	True	3060	Vlaams-Brabant	
+3070	Kortenberg	False		Vlaams-Brabant	
+3071	Erps-Kwerps	True	3070	Vlaams-Brabant	
+3078	Everberg	True	3070	Vlaams-Brabant	
+3078	Meerbeek	True	3070	Vlaams-Brabant	
+3080	Duisburg	True	3080	Vlaams-Brabant	
+3080	Tervuren	False		Vlaams-Brabant	
+3080	Vossem	True	3080	Vlaams-Brabant	
+3090	Overijse	False		Vlaams-Brabant	
+3110	Rotselaar	False		Vlaams-Brabant	
+3111	Wezemaal	True	3110	Vlaams-Brabant	
+3118	Werchter	True	3110	Vlaams-Brabant	
+3120	Tremelo	False		Vlaams-Brabant	
+3128	Baal	True	3120	Vlaams-Brabant	
+3130	Begijnendijk	False		Vlaams-Brabant	
+3130	Betekom	True	3130	Vlaams-Brabant	
+3140	Keerbergen	False		Vlaams-Brabant	
+3150	Haacht	False		Vlaams-Brabant	
+3150	Tildonk	True	3150	Vlaams-Brabant	
+3150	Wespelaar	True	3150	Vlaams-Brabant	
+3190	Boortmeerbeek	False		Vlaams-Brabant	
+3191	Hever	True	3190	Vlaams-Brabant	
+3200	Aarschot	False		Vlaams-Brabant	
+3200	Gelrode	True	3200	Vlaams-Brabant	
+3201	Langdorp	True	3200	Vlaams-Brabant	
+3202	Rillaar	True	3200	Vlaams-Brabant	
+3210	Linden	True	3210	Vlaams-Brabant	
+3210	Lubbeek	False		Vlaams-Brabant	
+3211	Binkom	True	3210	Vlaams-Brabant	
+3212	Pellenberg	True	3210	Vlaams-Brabant	
+3220	Holsbeek	False		Vlaams-Brabant	
+3220	Kortrijk-Dutsel	True	3220	Vlaams-Brabant	
+3220	Sint-Pieters-Rode	True	3220	Vlaams-Brabant	
+3221	Nieuwrode	True	3220	Vlaams-Brabant	
+3270	Scherpenheuvel	True		Vlaams-Brabant	
+3271	Averbode	True		Vlaams-Brabant	
+3271	Zichem	True		Vlaams-Brabant	
+3272	Messelbroek	True		Vlaams-Brabant	
+3272	Testelt	True		Vlaams-Brabant	
+3290	Deurne	True	3290	Vlaams-Brabant	
+3290	Diest	False		Vlaams-Brabant	
+3290	Schaffen	True	3290	Vlaams-Brabant	
+3290	Webbekom	True	3290	Vlaams-Brabant	
+3293	Kaggevinne	True	3290	Vlaams-Brabant	
+3294	Molenstede	True	3290	Vlaams-Brabant	
+3300	Bost	True	3300	Vlaams-Brabant	
+3300	Goetsenhoven	True	3300	Vlaams-Brabant	
+3300	Hakendover	True	3300	Vlaams-Brabant	
+3300	Kumtich	True	3300	Vlaams-Brabant	
+3300	Oorbeek	True	3300	Vlaams-Brabant	
+3300	Oplinter	True	3300	Vlaams-Brabant	
+3300	Tienen	False		Vlaams-Brabant	
+3300	Vissenaken	True	3300	Vlaams-Brabant	
+3320	Hoegaarden	False		Vlaams-Brabant	
+3320	Meldert	True	3320	Vlaams-Brabant	
+3321	Outgaarden	True	3320	Vlaams-Brabant	
+3350	Drieslinter	True	3350	Vlaams-Brabant	
+3350	Linter	False		Vlaams-Brabant	
+3350	Melkwezer	True	3350	Vlaams-Brabant	
+3350	Neerhespen	True	3350	Vlaams-Brabant	
+3350	Neerlinter	True	3350	Vlaams-Brabant	
+3350	Orsmaal-Gussenhoven	True	3350	Vlaams-Brabant	
+3350	Overhespen	True	3350	Vlaams-Brabant	
+3350	Wommersom	True	3350	Vlaams-Brabant	
+3360	Bierbeek	False		Vlaams-Brabant	
+3360	Korbeek-Lo	True	3360	Vlaams-Brabant	
+3360	Lovenjoel	True	3360	Vlaams-Brabant	
+3360	Opvelp	True	3360	Vlaams-Brabant	
+3370	Boutersem	False		Vlaams-Brabant	
+3370	Kerkom	True	3370	Vlaams-Brabant	
+3370	Neervelp	True	3370	Vlaams-Brabant	
+3370	Roosbeek	True	3370	Vlaams-Brabant	
+3370	Vertrijk	True	3370	Vlaams-Brabant	
+3370	Willebringen	True	3370	Vlaams-Brabant	
+3380	Bunsbeek	True	3380	Vlaams-Brabant	
+3380	Glabbeek	False		Vlaams-Brabant	
+3381	Kapellen	True	3380	Vlaams-Brabant	
+3384	Attenrode	True	3380	Vlaams-Brabant	
+3390	Houwaart	True		Vlaams-Brabant	
+3390	Sint-Joris-Winge	True		Vlaams-Brabant	
+3390	Tielt	True		Vlaams-Brabant	
+3391	Meensel-Kiezegem	True		Vlaams-Brabant	
+3400	Eliksem	True	3400	Vlaams-Brabant	
+3400	Ezemaal	True	3400	Vlaams-Brabant	
+3400	Laar	True	3400	Vlaams-Brabant	
+3400	Landen	False		Vlaams-Brabant	
+3400	Neerwinden	True	3400	Vlaams-Brabant	
+3400	Overwinden	True	3400	Vlaams-Brabant	
+3400	Rumsdorp	True	3400	Vlaams-Brabant	
+3400	Wange	True	3400	Vlaams-Brabant	
+3401	Waasmont	True	3400	Vlaams-Brabant	
+3401	Walsbets	True	3400	Vlaams-Brabant	
+3401	Walshoutem	True	3400	Vlaams-Brabant	
+3401	Wezeren	True	3400	Vlaams-Brabant	
+3404	Attenhoven	True	3400	Vlaams-Brabant	
+3404	Neerlanden	True	3400	Vlaams-Brabant	
+3440	Budingen	True	3440	Vlaams-Brabant	
+3440	Dormaal	True	3440	Vlaams-Brabant	
+3440	Halle-Booienhoven	True	3440	Vlaams-Brabant	
+3440	Helen-Bos	True	3440	Vlaams-Brabant	
+3440	Zoutleeuw	False		Vlaams-Brabant	
+3450	Geetbets	False		Vlaams-Brabant	
+3450	Grazen	True	3450	Vlaams-Brabant	
+3454	Rummen	True	3450	Vlaams-Brabant	
+3460	Assent	True	3460	Vlaams-Brabant	
+3460	Bekkevoort	False		Vlaams-Brabant	
+3461	Molenbeek-Wersbeek	True	3460	Vlaams-Brabant	
+3470	Sint-Margriete-Houtem	True	3470	Vlaams-Brabant	
+3470	Kortenaken	False		Vlaams-Brabant	
+3470	Ransberg	True	3470	Vlaams-Brabant	
+3471	Hoeleden	True	3470	Vlaams-Brabant	
+3472	Kersbeek-Miskom	True	3470	Vlaams-Brabant	
+3473	Waanrode	True	3470	Vlaams-Brabant	
+3500	Hasselt	False		Limburg	
+3500	Sint-Lambrechts-Herk	True	3500	Limburg	
+3501	Wimmertingen	True	3500	Limburg	
+3510	Kermt	True	3500	Limburg	
+3510	Spalbeek	True	3500	Limburg	
+3511	Kuringen	True	3500	Limburg	
+3511	Stokrooie	True	3500	Limburg	
+3512	Stevoort	True	3500	Limburg	
+3520	Zonhoven	False		Limburg	
+3530	Helchteren	True		Limburg	
+3530	Houthalen	True		Limburg	
+3540	Berbroek	True	3540	Limburg	
+3540	Donk	True	3540	Limburg	
+3540	Herk-De-Stad	False		Limburg	
+3540	Schulen	True	3540	Limburg	
+3545	Halen	False		Limburg	
+3545	Loksbergen	True	3545	Limburg	
+3545	Zelem	True	3545	Limburg	
+3550	Heusden	True	3550	Limburg	
+3550	Heusden-Zolder	False		Limburg	
+3550	Zolder	True	3550	Limburg	
+3560	Linkhout	True	3560	Limburg	
+3560	Lummen	False		Limburg	
+3560	Meldert	True	3560	Limburg	
+3570	Alken	False		Limburg	
+3580	Beringen	False		Limburg	
+3581	Beverlo	True	3580	Limburg	
+3582	Koersel	True	3580	Limburg	
+3583	Paal	True	3580	Limburg	
+3590	Diepenbeek	False		Limburg	
+3600	Genk	False		Limburg	
+3620	Gellik	True	3620	Limburg	
+3620	Lanaken	False		Limburg	
+3620	Neerharen	True	3620	Limburg	
+3620	Veldwezelt	True	3620	Limburg	
+3621	Rekem	True	3620	Limburg	
+3630	Eisden	True	3630	Limburg	
+3630	Leut	True	3630	Limburg	
+3630	Maasmechelen	False		Limburg	
+3630	Mechelen-Aan-De-Maas	True	3630	Limburg	
+3630	Meeswijk	True	3630	Limburg	
+3630	Opgrimbie	True	3630	Limburg	
+3630	Vucht	True	3630	Limburg	
+3631	Boorsem	True	3630	Limburg	
+3631	Uikhoven	True	3630	Limburg	
+3640	Kessenich	True	3640	Limburg	
+3640	Kinrooi	False		Limburg	
+3640	Molenbeersel	True	3640	Limburg	
+3640	Ophoven	True	3640	Limburg	
+3650	Dilsen	True	3650	Limburg	
+3650	Dilsen-Stokkem	False		Limburg	
+3650	Elen	True	3650	Limburg	
+3650	Lanklaar	True	3650	Limburg	
+3650	Rotem	True	3650	Limburg	
+3650	Stokkem	True	3650	Limburg	
+3660	Opglabbeek	True		Limburg	
+3665	As	False		Limburg	
+3668	Niel-Bij-As	True	3665	Limburg	
+3670	Ellikom	True		Limburg	
+3670	Gruitrode	True		Limburg	
+3670	Meeuwen	True		Limburg	
+3670	Neerglabbeek	True		Limburg	
+3670	Wijshagen	True		Limburg	
+3680	Maaseik	False		Limburg	
+3680	Neeroeteren	True	3680	Limburg	
+3680	Opoeteren	True	3680	Limburg	
+3690	Zutendaal	False		Limburg	
+3700	'S Herenelderen	True	3700	Limburg	
+3700	Berg	True	3700	Limburg	
+3700	Diets-Heur	True	3700	Limburg	
+3700	Henis	True	3700	Limburg	
+3700	Koninksem	True	3700	Limburg	
+3700	Lauw	True	3700	Limburg	
+3700	Mal	True	3700	Limburg	
+3700	Neerrepen	True	3700	Limburg	
+3700	Nerem	True	3700	Limburg	
+3700	Overrepen	True	3700	Limburg	
+3700	Piringen	True	3700	Limburg	
+3700	Riksingen	True	3700	Limburg	
+3700	Rutten	True	3700	Limburg	
+3700	Sluizen	True	3700	Limburg	
+3700	Tongeren	False		Limburg	
+3700	Vreren	True	3700	Limburg	
+3700	Widooie	True	3700	Limburg	
+3717	Herstappe	False		Limburg	
+3720	Kortessem	False		Limburg	
+3721	Vliermaalroot	True	3720	Limburg	
+3722	Wintershoven	True	3720	Limburg	
+3723	Guigoven	True	3720	Limburg	
+3724	Vliermaal	True	3720	Limburg	
+3730	Hoeselt	False		Limburg	
+3730	Romershoven	True	3730	Limburg	
+3730	Sint-Huibrechts-Hern	True	3730	Limburg	
+3730	Werm	True	3730	Limburg	
+3732	Schalkhoven	True	3730	Limburg	
+3740	Beverst	True	3740	Limburg	
+3740	Bilzen	False		Limburg	
+3740	Eigenbilzen	True	3740	Limburg	
+3740	Grote-Spouwen	True	3740	Limburg	
+3740	Hees	True	3740	Limburg	
+3740	Kleine-Spouwen	True	3740	Limburg	
+3740	Mopertingen	True	3740	Limburg	
+3740	Munsterbilzen	True	3740	Limburg	
+3740	Rijkhoven	True	3740	Limburg	
+3740	Rosmeer	True	3740	Limburg	
+3740	Waltwilder	True	3740	Limburg	
+3742	Martenslinde	True	3740	Limburg	
+3746	Hoelbeek	True	3740	Limburg	
+3770	Genoelselderen	True	3770	Limburg	
+3770	Herderen	True	3770	Limburg	
+3770	Kanne	True	3770	Limburg	
+3770	Membruggen	True	3770	Limburg	
+3770	Millen	True	3770	Limburg	
+3770	Riemst	False		Limburg	
+3770	Val-Meer	True	3770	Limburg	
+3770	Vlijtingen	True	3770	Limburg	
+3770	Vroenhoven	True	3770	Limburg	
+3770	Zichen-Zussen-Bolder	True	3770	Limburg	
+3790	Moelingen	True		Limburg	
+3790	Sint-Martens-Voeren	True		Limburg	
+3791	Remersdaal	True		Limburg	
+3792	Sint-Pieters-Voeren	True		Limburg	
+3793	Teuven	True		Limburg	
+3798	S Gravenvoeren	True		Limburg	
+3800	Aalst	True	3800	Limburg	
+3800	Brustem	True	3800	Limburg	
+3800	Engelmanshoven	True	3800	Limburg	
+3800	Gelinden	True	3800	Limburg	
+3800	Groot-Gelmen	True	3800	Limburg	
+3800	Halmaal	True	3800	Limburg	
+3800	Kerkom-Bij-Sint-Truiden	True	3800	Limburg	
+3800	Ordingen	True	3800	Limburg	
+3800	Sint-Truiden	False		Limburg	
+3800	Zepperen	True	3800	Limburg	
+3803	Duras	True	3800	Limburg	
+3803	Gorsem	True	3800	Limburg	
+3803	Runkelen	True	3800	Limburg	
+3803	Wilderen	True	3800	Limburg	
+3806	Velm	True	3800	Limburg	
+3830	Berlingen	True	3830	Limburg	
+3830	Wellen	False		Limburg	
+3831	Herten	True	3830	Limburg	
+3832	Ulbeek	True	3830	Limburg	
+3840	Haren	True	3840	Limburg	
+3840	Kolmont	True	3840	Limburg	
+3840	Bommershoven	True	3840	Limburg	
+3840	Borgloon	False		Limburg	
+3840	Broekom	True	3840	Limburg	
+3840	Gors-Opleeuw	True	3840	Limburg	
+3840	Gotem	True	3840	Limburg	
+3840	Groot-Loon	True	3840	Limburg	
+3840	Hendrieken	True	3840	Limburg	
+3840	Hoepertingen	True	3840	Limburg	
+3840	Jesseren	True	3840	Limburg	
+3840	Kerniel	True	3840	Limburg	
+3840	Kuttekoven	True	3840	Limburg	
+3840	Rijkel	True	3840	Limburg	
+3840	Voort	True	3840	Limburg	
+3850	Binderveld	True	3850	Limburg	
+3850	Kozen	True	3850	Limburg	
+3850	Nieuwerkerken	False		Limburg	
+3850	Wijer	True	3850	Limburg	
+3870	Batsheers	True	3870	Limburg	
+3870	Bovelingen	True	3870	Limburg	
+3870	Gutshoven	True	3870	Limburg	
+3870	Heers	False		Limburg	
+3870	Heks	True	3870	Limburg	
+3870	Horpmaal	True	3870	Limburg	
+3870	Klein-Gelmen	True	3870	Limburg	
+3870	Mechelen-Bovelingen	True	3870	Limburg	
+3870	Mettekoven	True	3870	Limburg	
+3870	Opheers	True	3870	Limburg	
+3870	Rukkelingen-Loon	True	3870	Limburg	
+3870	Vechmaal	True	3870	Limburg	
+3870	Veulen	True	3870	Limburg	
+3890	Boekhout	True	3890	Limburg	
+3890	Gingelom	False		Limburg	
+3890	Jeuk	True	3890	Limburg	
+3890	Kortijs	True	3890	Limburg	
+3890	Montenaken	True	3890	Limburg	
+3890	Niel-Bij-Sint-Truiden	True	3890	Limburg	
+3890	Vorsen	True	3890	Limburg	
+3891	Borlo	True	3890	Limburg	
+3891	Buvingen	True	3890	Limburg	
+3891	Mielen-Boven-Aalst	True	3890	Limburg	
+3891	Muizen	True	3890	Limburg	
+3900	Overpelt	True		Limburg	
+3910	Neerpelt	True		Limburg	
+3910	Sint-Huibrechts-Lille	True		Limburg	
+3920	Lommel	False		Limburg	
+3930	Achel	True		Limburg	
+3930	Hamont	True		Limburg	
+3940	Hechtel	True		Limburg	
+3941	Eksel	True		Limburg	
+3945	Kwaadmechelen	True		Limburg	
+3945	Oostham	True		Limburg	
+3950	Bocholt	False		Limburg	
+3950	Kaulille	True	3950	Limburg	
+3950	Reppel	True	3950	Limburg	
+3960	Beek	True	3960	Limburg	
+3960	Bree	False		Limburg	
+3960	Gerdingen	True	3960	Limburg	
+3960	Opitter	True	3960	Limburg	
+3960	Tongerlo	True	3960	Limburg	
+3970	Leopoldsburg	False		Limburg	
+3971	Heppen	True	3970	Limburg	
+3980	Tessenderlo	False		Limburg	
+3990	Grote-Brogel	True	3990	Limburg	
+3990	Kleine-Brogel	True	3990	Limburg	
+3990	Peer	False		Limburg	
+3990	Wijchmaal	True	3990	Limburg	
+8000	Brugge	False		West-Vlaanderen	
+8000	Koolkerke	True	8000	West-Vlaanderen	
+8020	Hertsberge	True	8020	West-Vlaanderen	
+8020	Oostkamp	False		West-Vlaanderen	
+8020	Ruddervoorde	True	8020	West-Vlaanderen	
+8020	Waardamme	True	8020	West-Vlaanderen	
+8200	Sint-Andries	True	8000	West-Vlaanderen	
+8200	Sint-Michiels	True	8000	West-Vlaanderen	
+8210	Loppem	True	8210	West-Vlaanderen	
+8210	Veldegem	True	8210	West-Vlaanderen	
+8210	Zedelgem	False		West-Vlaanderen	
+8211	Aartrijke	True	8210	West-Vlaanderen	
+8300	Knokke	True		West-Vlaanderen	
+8300	Westkapelle	True		West-Vlaanderen	
+8301	Heist-Aan-Zee	True		West-Vlaanderen	
+8310	Assebroek	True	8000	West-Vlaanderen	
+8310	Sint-Kruis	True	8000	West-Vlaanderen	
+8340	Damme	False		West-Vlaanderen	
+8340	Hoeke	True	8340	West-Vlaanderen	
+8340	Lapscheure	True	8340	West-Vlaanderen	
+8340	Moerkerke	True	8340	West-Vlaanderen	
+8340	Sijsele	True	8340	West-Vlaanderen	
+8370	Blankenberge	False		West-Vlaanderen	
+8370	Uitkerke	True	8370	West-Vlaanderen	
+8377	Houtave	True	8377	West-Vlaanderen	
+8377	Meetkerke	True	8377	West-Vlaanderen	
+8377	Nieuwmunster	True	8377	West-Vlaanderen	
+8377	Zuienkerke	False		West-Vlaanderen	
+8380	Dudzele	True	8000	West-Vlaanderen	
+8380	Lissewege	True	8000	West-Vlaanderen	
+8380	Zeebrugge	True	8000	West-Vlaanderen	
+8400	Oostende	False		West-Vlaanderen	
+8400	Stene	True	8400	West-Vlaanderen	
+8420	De Haan	False		West-Vlaanderen	
+8420	Klemskerke	True	8420	West-Vlaanderen	
+8420	Wenduine	True	8420	West-Vlaanderen	
+8421	Vlissegem	True	8420	West-Vlaanderen	
+8430	Middelkerke	False		West-Vlaanderen	
+8431	Wilskerke	True	8430	West-Vlaanderen	
+8432	Leffinge	True	8430	West-Vlaanderen	
+8433	Mannekensvere	True	8430	West-Vlaanderen	
+8433	Schore	True	8430	West-Vlaanderen	
+8433	Sint-Pieters-Kapelle	True	8430	West-Vlaanderen	
+8433	Slijpe	True	8430	West-Vlaanderen	
+8434	Lombardsijde	True	8430	West-Vlaanderen	
+8434	Westende	True	8430	West-Vlaanderen	
+8450	Bredene	False		West-Vlaanderen	
+8460	Ettelgem	True	8460	West-Vlaanderen	
+8460	Oudenburg	False		West-Vlaanderen	
+8460	Roksem	True	8460	West-Vlaanderen	
+8460	Westkerke	True	8460	West-Vlaanderen	
+8470	Gistel	False		West-Vlaanderen	
+8470	Moere	True	8470	West-Vlaanderen	
+8470	Snaaskerke	True	8470	West-Vlaanderen	
+8470	Zevekote	True	8470	West-Vlaanderen	
+8480	Bekegem	True	8480	West-Vlaanderen	
+8480	Eernegem	True	8480	West-Vlaanderen	
+8480	Ichtegem	False		West-Vlaanderen	
+8490	Jabbeke	False		West-Vlaanderen	
+8490	Snellegem	True	8490	West-Vlaanderen	
+8490	Stalhille	True	8490	West-Vlaanderen	
+8490	Varsenare	True	8490	West-Vlaanderen	
+8490	Zerkegem	True	8490	West-Vlaanderen	
+8500	Kortrijk	False		West-Vlaanderen	
+8501	Bissegem	True	8500	West-Vlaanderen	
+8501	Heule	True	8500	West-Vlaanderen	
+8510	Bellegem	True	8500	West-Vlaanderen	
+8510	Kooigem	True	8500	West-Vlaanderen	
+8510	Marke	True	8500	West-Vlaanderen	
+8510	Rollegem	True	8500	West-Vlaanderen	
+8511	Aalbeke	True	8500	West-Vlaanderen	
+8520	Kuurne	False		West-Vlaanderen	
+8530	Harelbeke	False		West-Vlaanderen	
+8531	Bavikhove	True	8530	West-Vlaanderen	
+8531	Hulste	True	8530	West-Vlaanderen	
+8540	Deerlijk	False		West-Vlaanderen	
+8550	Zwevegem	False		West-Vlaanderen	
+8551	Heestert	True	8550	West-Vlaanderen	
+8552	Moen	True	8550	West-Vlaanderen	
+8553	Otegem	True	8550	West-Vlaanderen	
+8554	Sint-Denijs	True	8550	West-Vlaanderen	
+8560	Gullegem	True	8560	West-Vlaanderen	
+8560	Moorsele	True	8560	West-Vlaanderen	
+8560	Wevelgem	False		West-Vlaanderen	
+8570	Anzegem	False		West-Vlaanderen	
+8570	Gijzelbrechtegem	True	8570	West-Vlaanderen	
+8570	Ingooigem	True	8570	West-Vlaanderen	
+8570	Vichte	True	8570	West-Vlaanderen	
+8572	Kaster	True	8570	West-Vlaanderen	
+8573	Tiegem	True	8570	West-Vlaanderen	
+8580	Avelgem	False		West-Vlaanderen	
+8581	Kerkhove	True	8580	West-Vlaanderen	
+8581	Waarmaarde	True	8580	West-Vlaanderen	
+8582	Outrijve	True	8580	West-Vlaanderen	
+8583	Bossuit	True	8580	West-Vlaanderen	
+8587	Helkijn	True		West-Vlaanderen	
+8587	Spiere	True		West-Vlaanderen	
+8600	Oostkerke	True	8600	West-Vlaanderen	
+8600	Beerst	True	8600	West-Vlaanderen	
+8600	Diksmuide	False		West-Vlaanderen	
+8600	Driekapellen	True	8600	West-Vlaanderen	
+8600	Esen	True	8600	West-Vlaanderen	
+8600	Kaaskerke	True	8600	West-Vlaanderen	
+8600	Keiem	True	8600	West-Vlaanderen	
+8600	Lampernisse	True	8600	West-Vlaanderen	
+8600	Leke	True	8600	West-Vlaanderen	
+8600	Nieuwkapelle	True	8600	West-Vlaanderen	
+8600	Oudekapelle	True	8600	West-Vlaanderen	
+8600	Pervijze	True	8600	West-Vlaanderen	
+8600	Sint-Jacobs-Kapelle	True	8600	West-Vlaanderen	
+8600	Stuivekenskerke	True	8600	West-Vlaanderen	
+8600	Vladslo	True	8600	West-Vlaanderen	
+8600	Woumen	True	8600	West-Vlaanderen	
+8610	Handzame	True	8610	West-Vlaanderen	
+8610	Kortemark	False		West-Vlaanderen	
+8610	Werken	True	8610	West-Vlaanderen	
+8610	Zarren	True	8610	West-Vlaanderen	
+8620	Ramskapelle	True	8620	West-Vlaanderen	
+8620	Nieuwpoort	False		West-Vlaanderen	
+8630	Avekapelle	True	8630	West-Vlaanderen	
+8630	Booitshoeke	True	8630	West-Vlaanderen	
+8630	Bulskamp	True	8630	West-Vlaanderen	
+8630	De Moeren	True	8630	West-Vlaanderen	
+8630	Eggewaartskapelle	True	8630	West-Vlaanderen	
+8630	Houtem	True	8630	West-Vlaanderen	
+8630	Steenkerke	True	8630	West-Vlaanderen	
+8630	Veurne	False		West-Vlaanderen	
+8630	Vinkem	True	8630	West-Vlaanderen	
+8630	Wulveringem	True	8630	West-Vlaanderen	
+8630	Zoutenaaie	True	8630	West-Vlaanderen	
+8640	Oostvleteren	True		West-Vlaanderen	
+8640	Westvleteren	True		West-Vlaanderen	
+8640	Woesten	True		West-Vlaanderen	
+8647	Lo	True		West-Vlaanderen	
+8647	Noordschote	True		West-Vlaanderen	
+8647	Pollinkhove	True		West-Vlaanderen	
+8647	Reninge	True		West-Vlaanderen	
+8650	Houthulst	False		West-Vlaanderen	
+8650	Klerken	True	8650	West-Vlaanderen	
+8650	Merkem	True	8650	West-Vlaanderen	
+8660	Adinkerke	True	8660	West-Vlaanderen	
+8660	De Panne	False		West-Vlaanderen	
+8670	Koksijde	False		West-Vlaanderen	
+8670	Oostduinkerke	True	8670	West-Vlaanderen	
+8670	Wulpen	True	8670	West-Vlaanderen	
+8680	Bovekerke	True	8680	West-Vlaanderen	
+8680	Koekelare	False		West-Vlaanderen	
+8680	Zande	True	8680	West-Vlaanderen	
+8690	Alveringem	False		West-Vlaanderen	
+8690	Hoogstade	True	8690	West-Vlaanderen	
+8690	Oeren	True	8690	West-Vlaanderen	
+8690	Sint-Rijkers	True	8690	West-Vlaanderen	
+8691	Beveren-Aan-De-Ijzer	True	8690	West-Vlaanderen	
+8691	Gijverinkhove	True	8690	West-Vlaanderen	
+8691	Izenberge	True	8690	West-Vlaanderen	
+8691	Leisele	True	8690	West-Vlaanderen	
+8691	Stavele	True	8690	West-Vlaanderen	
+8700	Aarsele	True	8700	West-Vlaanderen	
+8700	Kanegem	True	8700	West-Vlaanderen	
+8700	Schuiferskapelle	True	8700	West-Vlaanderen	
+8700	Tielt	False		West-Vlaanderen	
+8710	Ooigem	True	8710	West-Vlaanderen	
+8710	Sint-Baafs-Vijve	True	8710	West-Vlaanderen	
+8710	Wielsbeke	False		West-Vlaanderen	
+8720	Dentergem	False		West-Vlaanderen	
+8720	Markegem	True	8720	West-Vlaanderen	
+8720	Oeselgem	True	8720	West-Vlaanderen	
+8720	Wakken	True	8720	West-Vlaanderen	
+8730	Sint-Joris	True	8730	West-Vlaanderen	
+8730	Beernem	False		West-Vlaanderen	
+8730	Oedelem	True	8730	West-Vlaanderen	
+8740	Egem	True	8740	West-Vlaanderen	
+8740	Pittem	False		West-Vlaanderen	
+8750	Wingene	False		West-Vlaanderen	
+8750	Zwevezele	True	8750	West-Vlaanderen	
+8755	Ruiselede	False		West-Vlaanderen	
+8760	Meulebeke	False		West-Vlaanderen	
+8770	Ingelmunster	False		West-Vlaanderen	
+8780	Oostrozebeke	False		West-Vlaanderen	
+8790	Waregem	False		West-Vlaanderen	
+8792	Desselgem	True	8790	West-Vlaanderen	
+8793	Sint-Eloois-Vijve	True	8790	West-Vlaanderen	
+8800	Beveren	True	8800	West-Vlaanderen	
+8800	Oekene	True	8800	West-Vlaanderen	
+8800	Roeselare	False		West-Vlaanderen	
+8800	Rumbeke	True	8800	West-Vlaanderen	
+8810	Lichtervelde	False		West-Vlaanderen	
+8820	Torhout	False		West-Vlaanderen	
+8830	Gits	True	8830	West-Vlaanderen	
+8830	Hooglede	False		West-Vlaanderen	
+8840	Oostnieuwkerke	True	8840	West-Vlaanderen	
+8840	Staden	False		West-Vlaanderen	
+8840	Westrozebeke	True	8840	West-Vlaanderen	
+8850	Ardooie	False		West-Vlaanderen	
+8851	Koolskamp	True	8850	West-Vlaanderen	
+8860	Lendelede	False		West-Vlaanderen	
+8870	Emelgem	True	8870	West-Vlaanderen	
+8870	Izegem	False		West-Vlaanderen	
+8870	Kachtem	True	8870	West-Vlaanderen	
+8880	Ledegem	False		West-Vlaanderen	
+8880	Rollegem-Kapelle	True	8880	West-Vlaanderen	
+8880	Sint-Eloois-Winkel	True	8880	West-Vlaanderen	
+8890	Dadizele	True	8890	West-Vlaanderen	
+8890	Moorslede	False		West-Vlaanderen	
+8900	Brielen	True	8900	West-Vlaanderen	
+8900	Dikkebus	True	8900	West-Vlaanderen	
+8900	Ieper	False		West-Vlaanderen	
+8900	Sint-Jan	True	8900	West-Vlaanderen	
+8902	Hollebeke	True	8900	West-Vlaanderen	
+8902	Voormezele	True	8900	West-Vlaanderen	
+8902	Zillebeke	True	8900	West-Vlaanderen	
+8904	Boezinge	True	8900	West-Vlaanderen	
+8904	Zuidschote	True	8900	West-Vlaanderen	
+8906	Elverdinge	True	8900	West-Vlaanderen	
+8908	Vlamertinge	True	8900	West-Vlaanderen	
+8920	Bikschote	True		West-Vlaanderen	
+8920	Langemark	True		West-Vlaanderen	
+8920	Poelkapelle	True		West-Vlaanderen	
+8930	Lauwe	True	8930	West-Vlaanderen	
+8930	Menen	False		West-Vlaanderen	
+8930	Rekkem	True	8930	West-Vlaanderen	
+8940	Geluwe	True	8940	West-Vlaanderen	
+8940	Wervik	False		West-Vlaanderen	
+8950	Nieuwkerke	True		West-Vlaanderen	
+8951	Dranouter	True		West-Vlaanderen	
+8952	Wulvergem	True		West-Vlaanderen	
+8953	Wijtschate	True		West-Vlaanderen	
+8954	Westouter	True		West-Vlaanderen	
+8956	Kemmel	True		West-Vlaanderen	
+8957	Mesen	False		West-Vlaanderen	
+8958	Loker	True		West-Vlaanderen	
+8970	Poperinge	False		West-Vlaanderen	
+8970	Reningelst	True	8970	West-Vlaanderen	
+8972	Krombeke	True	8970	West-Vlaanderen	
+8972	Proven	True	8970	West-Vlaanderen	
+8972	Roesbrugge-Haringe	True	8970	West-Vlaanderen	
+8978	Watou	True	8970	West-Vlaanderen	
+8980	Zandvoorde	True	8980	West-Vlaanderen	
+8980	Beselare	True	8980	West-Vlaanderen	
+8980	Geluveld	True	8980	West-Vlaanderen	
+8980	Passendale	True	8980	West-Vlaanderen	
+8980	Zonnebeke	False		West-Vlaanderen	
+9000	Gent	False		Oost-Vlaanderen	
+9030	Mariakerke	True	9000	Oost-Vlaanderen	
+9031	Drongen	True	9000	Oost-Vlaanderen	
+9032	Wondelgem	True	9000	Oost-Vlaanderen	
+9040	Sint-Amandsberg	True	9000	Oost-Vlaanderen	
+9041	Oostakker	True	9000	Oost-Vlaanderen	
+9042	Desteldonk	True	9000	Oost-Vlaanderen	
+9042	Mendonk	True	9000	Oost-Vlaanderen	
+9042	Sint-Kruis-Winkel	True	9000	Oost-Vlaanderen	
+9050	Gentbrugge	True	9000	Oost-Vlaanderen	
+9050	Ledeberg	True	9000	Oost-Vlaanderen	
+9051	Afsnee	True	9000	Oost-Vlaanderen	
+9051	Sint-Denijs-Westrem	True	9000	Oost-Vlaanderen	
+9052	Zwijnaarde	True	9000	Oost-Vlaanderen	
+9060	Zelzate	False		Oost-Vlaanderen	
+9070	Destelbergen	False		Oost-Vlaanderen	
+9070	Heusden	True	9070	Oost-Vlaanderen	
+9080	Beervelde	True	9080	Oost-Vlaanderen	
+9080	Lochristi	False		Oost-Vlaanderen	
+9080	Zaffelare	True	9080	Oost-Vlaanderen	
+9080	Zeveneken	True	9080	Oost-Vlaanderen	
+9090	Gontrode	True	9090	Oost-Vlaanderen	
+9090	Melle	False		Oost-Vlaanderen	
+9100	Nieuwkerken-Waas	True	9100	Oost-Vlaanderen	
+9100	Sint-Niklaas	False		Oost-Vlaanderen	
+9111	Belsele	True	9100	Oost-Vlaanderen	
+9112	Sinaai-Waas	True	9100	Oost-Vlaanderen	
+9120	Beveren-Waas	False		Oost-Vlaanderen	
+9120	Haasdonk	True	9120	Oost-Vlaanderen	
+9120	Melsele	True	9120	Oost-Vlaanderen	
+9120	Vrasene	True	9120	Oost-Vlaanderen	
+9130	Kallo	True	9120	Oost-Vlaanderen	
+9130	Doel	True	9120	Oost-Vlaanderen	
+9130	Kieldrecht	True	9120	Oost-Vlaanderen	
+9130	Verrebroek	True	9120	Oost-Vlaanderen	
+9140	Elversele	True	9140	Oost-Vlaanderen	
+9140	Steendorp	True	9140	Oost-Vlaanderen	
+9140	Temse	False		Oost-Vlaanderen	
+9140	Tielrode	True	9140	Oost-Vlaanderen	
+9150	Bazel	True	9150	Oost-Vlaanderen	
+9150	Kruibeke	False		Oost-Vlaanderen	
+9150	Rupelmonde	True	9150	Oost-Vlaanderen	
+9160	Daknam	True	9160	Oost-Vlaanderen	
+9160	Eksaarde	True	9160	Oost-Vlaanderen	
+9160	Lokeren	False		Oost-Vlaanderen	
+9170	De Klinge	True	9170	Oost-Vlaanderen	
+9170	Meerdonk	True	9170	Oost-Vlaanderen	
+9170	Sint-Gillis-Waas	False		Oost-Vlaanderen	
+9170	Sint-Pauwels	True	9170	Oost-Vlaanderen	
+9180	Moerbeke-Waas	False		Oost-Vlaanderen	
+9185	Wachtebeke	False		Oost-Vlaanderen	
+9190	Kemzeke	True	9190	Oost-Vlaanderen	
+9190	Stekene	False		Oost-Vlaanderen	
+9200	Appels	True	9200	Oost-Vlaanderen	
+9200	Baasrode	True	9200	Oost-Vlaanderen	
+9200	Dendermonde	False		Oost-Vlaanderen	
+9200	Grembergen	True	9200	Oost-Vlaanderen	
+9200	Mespelare	True	9200	Oost-Vlaanderen	
+9200	Oudegem	True	9200	Oost-Vlaanderen	
+9200	Schoonaarde	True	9200	Oost-Vlaanderen	
+9200	Sint-Gillis-Dendermonde	True	9200	Oost-Vlaanderen	
+9220	Hamme	False		Oost-Vlaanderen	
+9220	Moerzeke	True	9220	Oost-Vlaanderen	
+9230	Massemen	True	9230	Oost-Vlaanderen	
+9230	Westrem	True	9230	Oost-Vlaanderen	
+9230	Wetteren	False		Oost-Vlaanderen	
+9240	Zele	False		Oost-Vlaanderen	
+9250	Waasmunster	False		Oost-Vlaanderen	
+9255	Buggenhout	False		Oost-Vlaanderen	
+9255	Opdorp	True	9255	Oost-Vlaanderen	
+9260	Schellebelle	True	9260	Oost-Vlaanderen	
+9260	Serskamp	True	9260	Oost-Vlaanderen	
+9260	Wichelen	False		Oost-Vlaanderen	
+9270	Kalken	True	9270	Oost-Vlaanderen	
+9270	Laarne	False		Oost-Vlaanderen	
+9280	Denderbelle	True	9280	Oost-Vlaanderen	
+9280	Lebbeke	False		Oost-Vlaanderen	
+9280	Wieze	True	9280	Oost-Vlaanderen	
+9290	Berlare	False		Oost-Vlaanderen	
+9290	Overmere	True	9290	Oost-Vlaanderen	
+9290	Uitbergen	True	9290	Oost-Vlaanderen	
+9300	Aalst	False		Oost-Vlaanderen	
+9308	Gijzegem	True	9300	Oost-Vlaanderen	
+9308	Hofstade	True	9300	Oost-Vlaanderen	
+9310	Baardegem	True	9300	Oost-Vlaanderen	
+9310	Herdersem	True	9300	Oost-Vlaanderen	
+9310	Meldert	True	9300	Oost-Vlaanderen	
+9310	Moorsel	True	9300	Oost-Vlaanderen	
+9320	Erembodegem	True	9300	Oost-Vlaanderen	
+9320	Nieuwerkerken	True	9300	Oost-Vlaanderen	
+9340	Impe	True	9340	Oost-Vlaanderen	
+9340	Lede	False		Oost-Vlaanderen	
+9340	Oordegem	True	9340	Oost-Vlaanderen	
+9340	Smetlede	True	9340	Oost-Vlaanderen	
+9340	Wanzele	True	9340	Oost-Vlaanderen	
+9400	Appelterre-Eichem	True	9400	Oost-Vlaanderen	
+9400	Denderwindeke	True	9400	Oost-Vlaanderen	
+9400	Lieferinge	True	9400	Oost-Vlaanderen	
+9400	Nederhasselt	True	9400	Oost-Vlaanderen	
+9400	Ninove	False		Oost-Vlaanderen	
+9400	Okegem	True	9400	Oost-Vlaanderen	
+9400	Voorde	True	9400	Oost-Vlaanderen	
+9401	Pollare	True	9400	Oost-Vlaanderen	
+9402	Meerbeke	True	9400	Oost-Vlaanderen	
+9403	Neigem	True	9400	Oost-Vlaanderen	
+9404	Aspelare	True	9400	Oost-Vlaanderen	
+9406	Outer	True	9400	Oost-Vlaanderen	
+9420	Aaigem	True		Oost-Vlaanderen	
+9420	Bambrugge	True		Oost-Vlaanderen	
+9420	Burst	True		Oost-Vlaanderen	
+9420	Erondegem	True		Oost-Vlaanderen	
+9420	Erpe	True		Oost-Vlaanderen	
+9420	Mere	True		Oost-Vlaanderen	
+9420	Ottergem	True		Oost-Vlaanderen	
+9420	Vlekkem	True		Oost-Vlaanderen	
+9450	Denderhoutem	True	9450	Oost-Vlaanderen	
+9450	Haaltert	False		Oost-Vlaanderen	
+9450	Heldergem	True	9450	Oost-Vlaanderen	
+9451	Kerksken	True	9450	Oost-Vlaanderen	
+9470	Denderleeuw	False		Oost-Vlaanderen	
+9472	Iddergem	True	9470	Oost-Vlaanderen	
+9473	Welle	True	9470	Oost-Vlaanderen	
+9500	Geraardsbergen	False		Oost-Vlaanderen	
+9500	Goeferdinge	True	9500	Oost-Vlaanderen	
+9500	Moerbeke	True	9500	Oost-Vlaanderen	
+9500	Nederboelare	True	9500	Oost-Vlaanderen	
+9500	Onkerzele	True	9500	Oost-Vlaanderen	
+9500	Ophasselt	True	9500	Oost-Vlaanderen	
+9500	Overboelare	True	9500	Oost-Vlaanderen	
+9500	Viane	True	9500	Oost-Vlaanderen	
+9500	Zarlardinge	True	9500	Oost-Vlaanderen	
+9506	Grimminge	True	9500	Oost-Vlaanderen	
+9506	Idegem	True	9500	Oost-Vlaanderen	
+9506	Nieuwenhove	True	9500	Oost-Vlaanderen	
+9506	Schendelbeke	True	9500	Oost-Vlaanderen	
+9506	Smeerebbe-Vloerzegem	True	9500	Oost-Vlaanderen	
+9506	Waarbeke	True	9500	Oost-Vlaanderen	
+9506	Zandbergen	True	9500	Oost-Vlaanderen	
+9520	Bavegem	True	9520	Oost-Vlaanderen	
+9520	Sint-Lievens-Houtem	False		Oost-Vlaanderen	
+9520	Vlierzele	True	9520	Oost-Vlaanderen	
+9520	Zonnegem	True	9520	Oost-Vlaanderen	
+9521	Letterhoutem	True	9520	Oost-Vlaanderen	
+9550	Herzele	False		Oost-Vlaanderen	
+9550	Hillegem	True	9550	Oost-Vlaanderen	
+9550	Sint-Antelinks	True	9550	Oost-Vlaanderen	
+9550	Sint-Lievens-Esse	True	9550	Oost-Vlaanderen	
+9550	Steenhuize-Wijnhuize	True	9550	Oost-Vlaanderen	
+9550	Woubrechtegem	True	9550	Oost-Vlaanderen	
+9551	Ressegem	True	9550	Oost-Vlaanderen	
+9552	Borsbeke	True	9550	Oost-Vlaanderen	
+9570	Deftinge	True		Oost-Vlaanderen	
+9570	Sint-Maria-Lierde	True		Oost-Vlaanderen	
+9571	Hemelveerdegem	True		Oost-Vlaanderen	
+9572	Sint-Martens-Lierde	True		Oost-Vlaanderen	
+9600	Ronse	False		Oost-Vlaanderen	
+9620	Oombergen	True	9620	Oost-Vlaanderen	
+9620	Elene	True	9620	Oost-Vlaanderen	
+9620	Erwetegem	True	9620	Oost-Vlaanderen	
+9620	Godveerdegem	True	9620	Oost-Vlaanderen	
+9620	Grotenberge	True	9620	Oost-Vlaanderen	
+9620	Leeuwergem	True	9620	Oost-Vlaanderen	
+9620	Sint-Goriks-Oudenhove	True	9620	Oost-Vlaanderen	
+9620	Strijpen	True	9620	Oost-Vlaanderen	
+9620	Velzeke-Ruddershove	True	9620	Oost-Vlaanderen	
+9620	Zottegem	False		Oost-Vlaanderen	
+9630	Beerlegem	True		Oost-Vlaanderen	
+9630	Dikkele	True		Oost-Vlaanderen	
+9630	Hundelgem	True		Oost-Vlaanderen	
+9630	Meilegem	True		Oost-Vlaanderen	
+9630	Munkzwalm	True		Oost-Vlaanderen	
+9630	Paulatem	True		Oost-Vlaanderen	
+9630	Roborst	True		Oost-Vlaanderen	
+9630	Rozebeke	True		Oost-Vlaanderen	
+9630	Sint-Blasius-Boekel	True		Oost-Vlaanderen	
+9630	Sint-Denijs-Boekel	True		Oost-Vlaanderen	
+9630	Sint-Maria-Latem	True		Oost-Vlaanderen	
+9636	Nederzwalm-Hermelgem	True		Oost-Vlaanderen	
+9660	Sint-Maria-Oudenhove	True	9660	Oost-Vlaanderen	
+9660	Brakel	False		Oost-Vlaanderen	
+9660	Elst	True	9660	Oost-Vlaanderen	
+9660	Everbeek	True	9660	Oost-Vlaanderen	
+9660	Michelbeke	True	9660	Oost-Vlaanderen	
+9660	Nederbrakel	True	9660	Oost-Vlaanderen	
+9660	Opbrakel	True	9660	Oost-Vlaanderen	
+9660	Zegelsem	True	9660	Oost-Vlaanderen	
+9661	Parike	True	9660	Oost-Vlaanderen	
+9667	Sint-Kornelis-Horebeke	True		Oost-Vlaanderen	
+9667	Sint-Maria-Horebeke	True		Oost-Vlaanderen	
+9680	Etikhove	True		Oost-Vlaanderen	
+9680	Maarke-Kerkem	True		Oost-Vlaanderen	
+9681	Nukerke	True		Oost-Vlaanderen	
+9688	Schorisse	True		Oost-Vlaanderen	
+9690	Berchem	True		Oost-Vlaanderen	
+9690	Kwaremont	True		Oost-Vlaanderen	
+9690	Ruien	True		Oost-Vlaanderen	
+9690	Zulzeke	True		Oost-Vlaanderen	
+9700	Bevere	True	9700	Oost-Vlaanderen	
+9700	Edelare	True	9700	Oost-Vlaanderen	
+9700	Eine	True	9700	Oost-Vlaanderen	
+9700	Ename	True	9700	Oost-Vlaanderen	
+9700	Heurne	True	9700	Oost-Vlaanderen	
+9700	Leupegem	True	9700	Oost-Vlaanderen	
+9700	Mater	True	9700	Oost-Vlaanderen	
+9700	Melden	True	9700	Oost-Vlaanderen	
+9700	Mullem	True	9700	Oost-Vlaanderen	
+9700	Nederename	True	9700	Oost-Vlaanderen	
+9700	Oudenaarde	False		Oost-Vlaanderen	
+9700	Volkegem	True	9700	Oost-Vlaanderen	
+9700	Welden	True	9700	Oost-Vlaanderen	
+9750	Huise	True		Oost-Vlaanderen	
+9750	Ouwegem	True		Oost-Vlaanderen	
+9750	Zingem	True		Oost-Vlaanderen	
+9770	Kruishoutem	True		Oost-Vlaanderen	
+9771	Nokere	True		Oost-Vlaanderen	
+9772	Wannegem-Lede	True		Oost-Vlaanderen	
+9790	Ooike	True		Oost-Vlaanderen	
+9790	Elsegem	True		Oost-Vlaanderen	
+9790	Moregem	True		Oost-Vlaanderen	
+9790	Petegem-Aan-De-Schelde	True		Oost-Vlaanderen	
+9790	Wortegem	True		Oost-Vlaanderen	
+9800	Astene	True	9800	Oost-Vlaanderen	
+9800	Bachte-Maria-Leerne	True	9800	Oost-Vlaanderen	
+9800	Deinze	False		Oost-Vlaanderen	
+9800	Gottem	True	9800	Oost-Vlaanderen	
+9800	Grammene	True	9800	Oost-Vlaanderen	
+9800	Meigem	True	9800	Oost-Vlaanderen	
+9800	Petegem-Aan-De-Leie	True	9800	Oost-Vlaanderen	
+9800	Sint-Martens-Leerne	True	9800	Oost-Vlaanderen	
+9800	Vinkt	True	9800	Oost-Vlaanderen	
+9800	Wontergem	True	9800	Oost-Vlaanderen	
+9800	Zeveren	True	9800	Oost-Vlaanderen	
+9810	Eke	True	9810	Oost-Vlaanderen	
+9810	Nazareth	False		Oost-Vlaanderen	
+9820	Bottelare	True	9820	Oost-Vlaanderen	
+9820	Lemberge	True	9820	Oost-Vlaanderen	
+9820	Melsen	True	9820	Oost-Vlaanderen	
+9820	Merelbeke	False		Oost-Vlaanderen	
+9820	Munte	True	9820	Oost-Vlaanderen	
+9820	Schelderode	True	9820	Oost-Vlaanderen	
+9830	Sint-Martens-Latem	False		Oost-Vlaanderen	
+9831	Deurle	True	9830	Oost-Vlaanderen	
+9840	De Pinte	False		Oost-Vlaanderen	
+9840	Zevergem	True	9840	Oost-Vlaanderen	
+9850	Hansbeke	True	9800	Oost-Vlaanderen	
+9850	Landegem	True	9800	Oost-Vlaanderen	
+9850	Merendree	True	9800	Oost-Vlaanderen	
+9850	Nevele	True	9800	Oost-Vlaanderen	
+9850	Poesele	True	9800	Oost-Vlaanderen	
+9850	Vosselare	True	9800	Oost-Vlaanderen	
+9860	Balegem	True	9860	Oost-Vlaanderen	
+9860	Gijzenzele	True	9860	Oost-Vlaanderen	
+9860	Landskouter	True	9860	Oost-Vlaanderen	
+9860	Moortsele	True	9860	Oost-Vlaanderen	
+9860	Oosterzele	False		Oost-Vlaanderen	
+9860	Scheldewindeke	True	9860	Oost-Vlaanderen	
+9870	Machelen	True	9870	Oost-Vlaanderen	
+9870	Olsene	True	9870	Oost-Vlaanderen	
+9870	Zulte	False		Oost-Vlaanderen	
+9880	Aalter	False		Oost-Vlaanderen	
+9880	Lotenhulle	True	9880	Oost-Vlaanderen	
+9880	Poeke	True	9880	Oost-Vlaanderen	
+9881	Bellem	True	9880	Oost-Vlaanderen	
+9890	Asper	True	9890	Oost-Vlaanderen	
+9890	Baaigem	True	9890	Oost-Vlaanderen	
+9890	Dikkelvenne	True	9890	Oost-Vlaanderen	
+9890	Gavere	False		Oost-Vlaanderen	
+9890	Semmerzake	True	9890	Oost-Vlaanderen	
+9890	Vurste	True	9890	Oost-Vlaanderen	
+9900	Eeklo	False		Oost-Vlaanderen	
+9910	Knesselare	True	9880	Oost-Vlaanderen	
+9910	Ursel	True	9880	Oost-Vlaanderen	
+9920	Lovendegem	True		Oost-Vlaanderen	
+9921	Vinderhoute	True		Oost-Vlaanderen	
+9930	Zomergem	True		Oost-Vlaanderen	
+9931	Oostwinkel	True		Oost-Vlaanderen	
+9932	Ronsele	True		Oost-Vlaanderen	
+9940	Ertvelde	True	9940	Oost-Vlaanderen	
+9940	Evergem	False		Oost-Vlaanderen	
+9940	Kluizen	True	9940	Oost-Vlaanderen	
+9940	Sleidinge	True	9940	Oost-Vlaanderen	
+9950	Waarschoot	True		Oost-Vlaanderen	
+9960	Assenede	False		Oost-Vlaanderen	
+9961	Boekhoute	True	9960	Oost-Vlaanderen	
+9968	Bassevelde	True	9960	Oost-Vlaanderen	
+9968	Oosteeklo	True	9960	Oost-Vlaanderen	
+9970	Kaprijke	False		Oost-Vlaanderen	
+9971	Lembeke	True	9970	Oost-Vlaanderen	
+9980	Sint-Laureins	False		Oost-Vlaanderen	
+9981	Sint-Margriete	True	9980	Oost-Vlaanderen	
+9982	Sint-Jan-In-Eremo	True	9980	Oost-Vlaanderen	
+9988	Waterland-Oudeman	True	9980	Oost-Vlaanderen	
+9988	Watervliet	True	9980	Oost-Vlaanderen	
+9990	Maldegem	False		Oost-Vlaanderen	
+9991	Adegem	True	9990	Oost-Vlaanderen	
+9992	Middelburg	True	9990	Oost-Vlaanderen	
